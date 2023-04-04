@@ -1,0 +1,18 @@
+.light_theme {
+  --content: black;
+  --bg: white;
+  --btn: white;
+  --company_bg: #fafafa;
+  --testimonial: #f8f9ff;
+}
+.dark_theme {
+  --content: white;
+  --bg: black;
+  --btn: white;
+  --company_bg: #232038;
+  --testimonial: black;
+}
+.App {
+  background: var(--bg);
+  color: var(--content);
+}

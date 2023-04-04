@@ -1,0 +1,9 @@
+.b-dot {
+  background: var(--content);
+}
+button {
+  color: var(--btn);
+}
+input {
+  color: black;
+}
