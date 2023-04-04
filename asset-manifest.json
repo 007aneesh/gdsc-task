@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gdsc-task/static/css/main.1381b923.css",
+    "main.js": "/gdsc-task/static/js/main.7dc48793.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gdsc-task/static/js/787.28cb0dcd.chunk.js",
+    "static/media/m.png": "/gdsc-task/static/media/m.9e22a397a79cc5f347c6.png",
+    "static/media/people.png": "/gdsc-task/static/media/people.24f72e2030dbed951bfe.png",
+    "static/media/rect.png": "/gdsc-task/static/media/rect.e689d4bb91d059571177.png",
+    "static/media/banner1.png": "/gdsc-task/static/media/banner1.3245f16dac259addb1c2.png",
+    "static/media/rect3.png": "/gdsc-task/static/media/rect3.1d5d03e29d1815f7bf92.png",
+    "static/media/rect2.png": "/gdsc-task/static/media/rect2.1b71e183b99549085747.png",
+    "static/media/rect4.png": "/gdsc-task/static/media/rect4.883946cf50bbed64da99.png",
+    "static/media/usr.png": "/gdsc-task/static/media/usr.9fc658159c44fc32dcd7.png",
+    "index.html": "/gdsc-task/index.html",
+    "main.1381b923.css.map": "/gdsc-task/static/css/main.1381b923.css.map",
+    "main.7dc48793.js.map": "/gdsc-task/static/js/main.7dc48793.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gdsc-task/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1381b923.css",
+    "static/js/main.7dc48793.js"
+  ]
+}
